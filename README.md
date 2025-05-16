@@ -1,5 +1,5 @@
-## Hi there 👋
-I'm Sahil Sharma, a Computer Science and Engineering student.
+## Hi there 👋! I'm Sahil Sharma, a Computer Science and Engineering student.
+
 <!--
 **SahilSharma-008/SahilSharma-008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
